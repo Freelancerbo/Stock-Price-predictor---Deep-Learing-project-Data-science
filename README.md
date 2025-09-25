@@ -46,7 +46,7 @@ Streamlit / Flask (interface)
 
 Clone this repository:
 
-git clone https://github.com/yourusername/stock-price-predictor.git
+git clone https://github.com/freelancerbo/stock-price-predictor.git
 cd stock-price-predictor
 
 
