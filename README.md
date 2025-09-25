@@ -42,25 +42,8 @@ Streamlit / Flask (interface)
 ├── README.md            # Project documentation  
 └── results/             # Prediction results and graphs  
 
-⚙️ Installation & Usage
-
-Clone this repository:
-
-git clone https://github.com/freelancerbo/stock-price-predictor.git
-cd stock-price-predictor
 
 
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the interface:
-
-streamlit run src/app.py
-
-
-Enter a stock ticker (e.g., AAPL, TSLA, MSFT) and view predictions.
 
 📊 Example Output
 
